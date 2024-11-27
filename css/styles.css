@@ -373,9 +373,19 @@ img {
   }
 }
 
+/* Mobile screen */
 .team-list {
   display: flex;
-  gap: 24px;
+  flex-direction: column;
+  gap: 72px;
+}
+
+/* Tablet screen */
+@media only screen and (min-width: 768px) {
+  .team-list {
+    flex-direction: row;
+    gap: 24px;
+  }
 }
 
 .team-item {
