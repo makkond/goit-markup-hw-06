@@ -417,7 +417,7 @@ button {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/people-office-mob@1x);
+    url(../images/people-office-mob-@1x);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -435,7 +435,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/people-office-mob@2x.jpg');
+      url('../images/people-office-mob-@2x.jpg');
   }
 }
 
@@ -445,7 +445,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/people-office-tab@1x.jpg');
+      url('../images/people-office-tab-@1x.jpg');
   }
 }
 
@@ -457,7 +457,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/people-office-tab@2x.jpg');
+      url('../images/people-office-tab-@2x.jpg');
   }
 }
 
@@ -467,7 +467,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/people-office-desk1x.jpg');
+      url('../images/people-office-desk-@1x.jpg');
   }
 }
 
@@ -479,7 +479,7 @@ button {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/people-office-desk2x.jpg');
+      url('../images/people-office-desk-@2x.jpg');
   }
 }
 
