@@ -121,6 +121,7 @@ button {
 }
 
 .logo {
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 18px;
   line-height: 117%;
@@ -299,19 +300,20 @@ button {
   width: 24px;
   height: 24px;
 
-  border: 1px solid #e7e9fc;
+  border: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 50%;
-  background-color: transparent;
+  background-color: #e7e9fc;
 }
 
 .burger-btn {
   padding: 0;
   border: none;
-  background-color: transparent;
+  background-color: #e7e9fc;
 }
 
 .icon-menu-close {
   display: block;
+  fill: #2e2f42;
 }
 
 .mobile-menu-nav {
