@@ -375,7 +375,6 @@ button {
   width: 280px;
   height: 40px;
   margin: 0 auto;
-  margin-bottom: 40px;
 }
 
 .socials-media-menu {
@@ -1009,10 +1008,10 @@ Tablet screen */
   width: 288px;
 }
 
-.footer-social {
+/* .footer-social {
   width: 208px;
   height: 80px;
-}
+} */
 
 .title-footer {
   display: flex;
@@ -1225,7 +1224,7 @@ input::placeholder {
     margin-right: 120px;
   }
 
-  .footer-social {
+  .item-social {
     margin-right: 80px;
   }
 }
